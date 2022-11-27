@@ -1,0 +1,9 @@
+﻿  SoftwareMain.cpp
+C:\Users\zhlud\source\repos\ProjectX\ProjectX\SoftwareDefinitions.h(9,1): warning C4005: OnSaveFile: изменение макроопределения
+C:\Users\zhlud\source\repos\ProjectX\ProjectX\SoftwareDefinitions.h(8,1): message : см. предыдущее определение "OnSaveFile"
+  Создание кода
+  0 of 100 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ProjectX.vcxproj -> C:\Users\zhlud\source\repos\ProjectX\x64\Release\ProjectX.exe
